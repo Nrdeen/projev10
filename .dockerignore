@@ -1,0 +1,16 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+!.env.production.example
+!.env.oci.example
+node_modules
+dist
+data
+tests
+docs/*.local.md
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
